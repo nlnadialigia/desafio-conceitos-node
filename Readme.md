@@ -16,7 +16,6 @@ ___
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#book-aulas">Aulas</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-frameworks-dependencias">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#licença">Licença</a>
 </h3>
