@@ -1,4 +1,4 @@
-<h1 align="center">Desafio 01</h1>
+<h1 align="center">Desafio 02</h1>
 <p align="center">
   <img src="assets/logo.jpg" width="300" heigth="300">
 </p>
